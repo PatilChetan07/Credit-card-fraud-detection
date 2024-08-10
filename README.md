@@ -9,4 +9,5 @@ The project also focuses on handling imbalanced datasets, which is a common chal
 Objectives:
 
 To build a predictive model to classify fraudulent and non-fraudulent transactions.
+
 To explore techniques for handling imbalanced datasets.
